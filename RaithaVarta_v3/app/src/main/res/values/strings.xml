@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raitha-Varta</string>
+    <string name="app_name_kn">ರೈತ-ವಾರ್ತಾ</string>
+    <string name="app_sub">Flash-Card Advisor for Farmers</string>
+    <string name="start_btn">ಪ್ರಾರಂಭಿಸಿ \u00A0 Start →</string>
+
+    <string name="today_tips">Today\'s Farming Tips</string>
+    <string name="weather">☀️ 28°C  Hubli</string>
+
+    <!-- Onboarding / Sign-in -->
+    <string name="signin_title">New to Raitha-Varta?</string>
+    <string name="signin_subtitle">Create your farmer profile to get personalised tips for your district and crops.</string>
+    <string name="btn_new_farmer">🌱 New Farmer Profile</string>
+    <string name="btn_returning">I already have a profile →</string>
+    <string name="setup_name_hint">Your name (e.g. Raju Patil)</string>
+    <string name="setup_district_hint">District (e.g. Hubli, Dharwad)</string>
+    <string name="setup_crops_hint">Crops you grow (e.g. Paddy, Tomato)</string>
+    <string name="setup_save">Save Profile &amp; Continue</string>
+    <string name="flash_label">Today\'s Flash Cards</string>
+    <string name="swipe_skip">👈 Skip</string>
+    <string name="swipe_cards">Swipe cards</string>
+    <string name="swipe_save">Save 👉</string>
+
+    <string name="success_title">Success Stories</string>
+    <string name="see_all">See all</string>
+
+    <string name="expert_title">🤔 Expert Ask (AI)</string>
+    <string name="expert_sub">Send a photo of a diseased leaf and get instant AI diagnosis with treatment recommendations.</string>
+    <string name="upload_leaf_btn">📷 Upload Leaf Photo</string>
+
+    <string name="nav_home">HOME</string>
+    <string name="nav_tips">TIPS</string>
+    <string name="nav_diagnose">DIAGNOSE</string>
+    <string name="nav_profile">PROFILE</string>
+
+    <string name="all_tips">📋 All Tips</string>
+    <string name="filter_by_crop">Filter by crop category</string>
+
+    <string name="diag_title">🔬 Leaf Diagnosis</string>
+    <string name="diag_sub">Upload a photo of a diseased plant leaf. Our AI will identify the problem and suggest treatment.</string>
+    <string name="select_crop">Select Crop Type</string>
+    <string name="upload_label">Tap to upload leaf photo</string>
+    <string name="upload_sub">JPG, PNG — max 10MB</string>
+    <string name="analyze_btn">🤖 Analyze with AI</string>
+    <string name="analyzing_btn">Analyzing…</string>
+    <string name="ai_result_title">🧪 AI Diagnosis Result</string>
+    <string name="analysis_error">⚠️ Analysis failed. Please check your connection and try again.</string>
+
+    <string name="profile_name">Raju Patil</string>
+    <string name="profile_loc">📍 Kolar District, Karnataka</string>
+    <string name="location_format">📍 %1$s, Karnataka</string>
+    <string name="district_format">%1$s, Karnataka</string>
+    <string name="stat_tips">Tips Read</string>
+    <string name="stat_saved">Saved</string>
+    <string name="stat_diag">Diagnoses</string>
+
+    <string name="settings_district">District</string>
+    <string name="settings_district_val">Kolar, Karnataka</string>
+    <string name="settings_crops">My Crops</string>
+    <string name="settings_crops_val">Tomato, Paddy, Coconut</string>
+    <string name="settings_notif">Notifications</string>
+    <string name="settings_notif_val">Daily tips at 6:00 AM</string>
+    <string name="settings_offline">Offline Mode</string>
+    <string name="settings_offline_val">Last synced: Today 5:30 AM</string>
+    <string name="settings_kvk">Krishi Vigyana Kendra</string>
+    <string name="settings_kvk_val">Connect with local experts</string>
+    <string name="settings_about">About Raitha-Varta</string>
+    <string name="settings_about_val">Version 1.0 • Powered by AI</string>
+
+    <string name="saved_toast">💾 Tip Saved!</string>
+    <string name="all_done">🎉 All caught up!</string>
+    <string name="all_done_sub">Check back tomorrow for new tips.</string>
+    <string name="no_tips">No tips for this category yet.</string>
+
+    <string name="lang_en_set">✅ Language set to English</string>
+    <string name="lang_kn_set">✅ ಕನ್ನಡ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ</string>
+
+    <!-- Categories -->
+    <string-array name="cats">
+        <item>All</item>
+        <item>Paddy 🌾</item>
+        <item>Tomato 🍅</item>
+        <item>Coconut 🥥</item>
+        <item>Banana 🍌</item>
+        <item>Sugarcane 🎋</item>
+    </string-array>
+
+    <!-- Settings dialog content -->
+    <string name="dialog_close">Close</string>
+    <string name="dialog_save">Save</string>
+    <string name="dialog_call">📞 Call KVK</string>
+    <string name="kvk_phone_number">+918023415000</string>
+    <string name="dialog_district_msg">Select your district to receive locally relevant farming tips and weather alerts.</string>
+    <string name="dialog_crops_msg">Choose the crops you grow. Tips and alerts will be tailored to your selection.</string>
+    <string name="dialog_notif_msg">Daily farming tips delivered at 6:00 AM. Toggle below to change preference.</string>
+    <string name="dialog_offline_msg">Your tips are cached for offline reading. Last synced: Today 5:30 AM.</string>
+    <string name="dialog_kvk_msg">Krishi Vigyana Kendra (KVK) helps farmers with training, soil testing, seeds and expert consultation. Tap below to call your nearest center.</string>
+    <string name="dialog_about_msg">Raitha-Varta v1.0\n\nA flash-card advisor app built for farmers of Karnataka.\n\nPowered by AI for instant leaf-disease diagnosis.\n\n© 2026 Raitha-Varta</string>
+
+    <string name="notif_disabled">Notifications off</string>
+    <string name="notif_toggle_label">Enable daily tips at 6:00 AM</string>
+
+    <!-- Settings list (DataRepository) -->
+    <string name="set_district">District</string>
+    <string name="set_district_sub">Kolar, Karnataka</string>
+    <string name="set_crops">My Crops</string>
+    <string name="set_crops_sub">Tomato, Paddy, Coconut</string>
+    <string name="set_notif">Notifications</string>
+    <string name="set_notif_sub">Daily tips at 6:00 AM</string>
+    <string name="set_offline">Offline Mode</string>
+    <string name="set_offline_sub">Last synced: Today 5:30 AM</string>
+    <string name="set_kvk">Krishi Vigyana Kendra</string>
+    <string name="set_kvk_sub">Connect with local experts</string>
+    <string name="set_about">About Raitha-Varta</string>
+    <string name="set_about_sub">Version 1.0 • Powered by AI</string>
+    <!-- API Key setting -->
+    <string name="set_apikey">🔑 Gemini AI Key</string>
+    <string name="set_apikey_sub">Required for leaf diagnosis AI</string>
+    <string name="apikey_set">✅ Key saved — AI ready</string>
+    <string name="apikey_not_set">⚠️ Not set — tap to add</string>
+    <string name="dialog_apikey_hint">Get your FREE key at aistudio.google.com/app/apikey → paste it here to enable AI leaf diagnosis.</string>
+
+    <!-- Login / Auth -->
+    <string name="login_title_signin">Welcome Back 👋</string>
+    <string name="login_sub_signin">Enter your PIN to continue</string>
+    <string name="login_title_signup">Create Account 🌱</string>
+    <string name="login_sub_signup">Set up your farmer profile to get personalised tips</string>
+    <string name="login_pin_hint">Enter your PIN (4–6 digits)</string>
+    <string name="login_new_pin_hint">Create a PIN (4–6 digits)</string>
+    <string name="login_btn_signin">Sign In →</string>
+    <string name="login_btn_signup">Create Account →</string>
+    <string name="login_btn_to_signup">New here? Create an account</string>
+    <string name="login_btn_to_signin">Already have an account? Sign In</string>
+    <string name="login_no_account">No account found. Please sign up first.</string>
+    <string name="login_enter_pin">Please enter your PIN</string>
+    <string name="login_wrong_pin">Incorrect PIN. Please try again.</string>
+    <string name="login_fill_required">Please enter your name and district</string>
+    <string name="login_pin_length">PIN must be at least 4 digits</string>
+
+    <!-- Logout -->
+    <string name="logout_btn">🚪 Log Out</string>
+    <string name="logout_title">Log Out?</string>
+    <string name="logout_message">You will need your PIN to sign back in.</string>
+    <string name="logout_confirm">Log Out</string>
+
+    <!-- Diagnosis History -->
+    <string name="history_title">📂 Recent Diagnoses</string>
+    <string name="history_empty">No diagnoses yet. Upload a leaf photo to get started.</string>
+
+</resources>

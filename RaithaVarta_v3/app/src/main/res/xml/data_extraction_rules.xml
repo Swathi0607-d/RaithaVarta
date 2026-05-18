@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Data-extraction rules required by Android 12 (API 31) and above.
+   See https://developer.android.com/about/versions/12/backup-restore
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <include domain="sharedpref" path="raitha_varta_prefs.xml" />
+    </cloud-backup>
+    <device-transfer>
+        <include domain="sharedpref" path="raitha_varta_prefs.xml" />
+    </device-transfer>
+</data-extraction-rules>

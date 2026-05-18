@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Farmer holding wheat/crop stalk — RaithaVarta app logo -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Sun top-right -->
+    <path android:fillColor="#FFD54F"
+        android:pathData="M82,20 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0"/>
+    <path android:strokeColor="#FFD54F" android:strokeWidth="1.8"
+        android:pathData="M82,10 L82,12 M82,28 L82,30 M72,20 L70,20 M94,20 L92,20 M75,13 L73.5,11.5 M90.5,27.5 L89,26 M75,27 L73.5,28.5 M89,14 L90.5,12.5"/>
+
+    <!-- Head -->
+    <path android:fillColor="#F5CBA7"
+        android:pathData="M38,34 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0"/>
+
+    <!-- Farmer wide-brim hat -->
+    <path android:fillColor="#8D6E3F"
+        android:pathData="M25,31 Q38,24 51,31 L51,33 Q38,27 25,33 Z"/>
+    <path android:fillColor="#A0784A"
+        android:pathData="M31,33 Q38,28 45,33 L45,36 Q38,31 31,36 Z"/>
+
+    <!-- Shirt body -->
+    <path android:fillColor="#2E7D32"
+        android:pathData="M27,42 Q25,60 26,72 L34,72 L34,55 L38,55 L38,72 L46,72 L47,60 Q49,42 38,41 Z"/>
+
+    <!-- Left arm holding crop stalk -->
+    <path android:fillColor="#F5CBA7"
+        android:pathData="M27,44 Q20,50 18,40 Q20,34 26,36 Z"/>
+    <path android:fillColor="#2E7D32"
+        android:pathData="M27,44 Q22,48 21,40 Q23,36 27,38 Z"/>
+
+    <!-- Right arm -->
+    <path android:fillColor="#F5CBA7"
+        android:pathData="M47,44 Q54,50 54,58 L51,59 Q50,52 45,46 Z"/>
+    <path android:fillColor="#2E7D32"
+        android:pathData="M47,44 Q52,50 52,58 L50,58 Q49,52 45,46 Z"/>
+
+    <!-- Dhoti/pants -->
+    <path android:fillColor="#ECEFF1"
+        android:pathData="M27,70 L34,70 L34,84 Q30,86 27,84 Z"/>
+    <path android:fillColor="#CFD8DC"
+        android:pathData="M38,70 L46,70 L46,84 Q42,86 38,84 Z"/>
+
+    <!-- Feet -->
+    <path android:fillColor="#5D4037"
+        android:pathData="M27,84 Q24,88 28,88 L34,88 L34,84 Z"/>
+    <path android:fillColor="#5D4037"
+        android:pathData="M38,84 L38,88 L44,88 Q48,88 45,84 Z"/>
+
+    <!-- Wheat stalk in hand -->
+    <path android:strokeColor="#558B2F" android:strokeWidth="2"
+        android:pathData="M18,38 Q16,28 20,18"/>
+    <path android:fillColor="#FDD835"
+        android:pathData="M20,18 Q17,14 14,12 Q16,16 18,20 Z"/>
+    <path android:fillColor="#FDD835"
+        android:pathData="M20,18 Q23,14 26,12 Q24,16 22,20 Z"/>
+    <path android:fillColor="#FDD835"
+        android:pathData="M20,21 Q16,18 13,17 Q15,21 18,24 Z"/>
+    <path android:fillColor="#FDD835"
+        android:pathData="M20,21 Q24,18 27,17 Q25,21 22,24 Z"/>
+    <path android:fillColor="#FDD835"
+        android:pathData="M19,24 Q15,22 12,22 Q14,26 18,27 Z"/>
+    <path android:fillColor="#FDD835"
+        android:pathData="M21,24 Q25,22 28,22 Q26,26 22,27 Z"/>
+    <path android:fillColor="#66BB6A"
+        android:pathData="M17,30 Q12,26 14,22 Q18,28 17,30 Z"/>
+
+    <!-- Second stalk -->
+    <path android:strokeColor="#33691E" android:strokeWidth="1.5"
+        android:pathData="M16,38 Q14,28 17,16"/>
+    <path android:fillColor="#F9A825"
+        android:pathData="M17,16 Q14,12 11,10 Q13,14 16,18 Z"/>
+    <path android:fillColor="#F9A825"
+        android:pathData="M17,16 Q20,12 23,10 Q21,14 19,18 Z"/>
+    <path android:fillColor="#66BB6A"
+        android:pathData="M15,26 Q10,24 11,20 Q14,24 15,26 Z"/>
+
+    <!-- Ground / grass -->
+    <path android:strokeColor="#43A047" android:strokeWidth="2"
+        android:pathData="M8,90 Q30,86 54,90 Q76,94 100,90"/>
+    <path android:fillColor="#66BB6A"
+        android:pathData="M60,90 Q62,84 64,90 Z M68,89 Q70,83 72,89 Z M76,90 Q78,85 80,90 Z M84,89 Q86,84 88,89 Z"/>
+</vector>

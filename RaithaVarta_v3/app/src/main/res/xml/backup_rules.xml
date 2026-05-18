@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Sample backup rules for Raitha-Varta.
+   Persists user language preference and any future cached tip data.
+   See https://developer.android.com/guide/topics/data/autobackup
+-->
+<full-backup-content>
+    <include domain="sharedpref" path="raitha_varta_prefs.xml" />
+</full-backup-content>

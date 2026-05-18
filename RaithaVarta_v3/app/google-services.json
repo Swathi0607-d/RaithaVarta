@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054480565611",
+    "project_id": "raithavartaa",
+    "storage_bucket": "raithavartaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054480565611:android:8d446dab82be33b8fe382e",
+        "android_client_info": {
+          "package_name": "com.raithavarta.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA5wVjZgFLXJtEyuzTiXLucsoRQp3CIEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ರೈತ-ವಾರ್ತಾ</string>
+    <string name="app_sub">ರೈತರಿಗಾಗಿ ಫ್ಲಾಶ್-ಕಾರ್ಡ್ ಸಲಹೆ</string>
+    <string name="start_btn">ಪ್ರಾರಂಭಿಸಿ →</string>
+
+    <string name="today_tips">ಇಂದಿನ ಕೃಷಿ ಸಲಹೆಗಳು</string>
+    <string name="weather">☀️ 28°C  ಬೆಂಗಳೂರು</string>
+    <string name="flash_label">ಇಂದಿನ ಫ್ಲಾಶ್ ಕಾರ್ಡ್‌ಗಳು</string>
+    <string name="swipe_skip">👈 ಬಿಡಿ</string>
+    <string name="swipe_cards">ಕಾರ್ಡ್ ಸ್ವೈಪ್ ಮಾಡಿ</string>
+    <string name="swipe_save">ಉಳಿಸಿ 👉</string>
+
+    <string name="success_title">ಯಶಸ್ಸಿನ ಕಥೆಗಳು</string>
+    <string name="see_all">ಎಲ್ಲವನ್ನೂ ನೋಡಿ</string>
+
+    <string name="expert_title">🤔 ತಜ್ಞರ ಸಲಹೆ (AI)</string>
+    <string name="expert_sub">ರೋಗಪೀಡಿತ ಎಲೆಯ ಫೋಟೋ ಕಳುಹಿಸಿ ಮತ್ತು ತಕ್ಷಣ AI ರೋಗ ನಿರ್ಣಯ ಪಡೆಯಿರಿ.</string>
+    <string name="upload_leaf_btn">📷 ಎಲೆ ಫೋಟೋ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ</string>
+
+    <string name="nav_home">ಮನೆ</string>
+    <string name="nav_tips">ಸಲಹೆಗಳು</string>
+    <string name="nav_diagnose">ರೋಗ ಪರೀಕ್ಷೆ</string>
+    <string name="nav_profile">ಪ್ರೊಫೈಲ್</string>
+
+    <string name="all_tips">📋 ಎಲ್ಲಾ ಸಲಹೆಗಳು</string>
+    <string name="filter_by_crop">ಬೆಳೆ ಪ್ರಕಾರ ಶೋಧಿಸಿ</string>
+
+    <string name="diag_title">🔬 ಎಲೆ ರೋಗ ನಿರ್ಣಯ</string>
+    <string name="diag_sub">ರೋಗಪೀಡಿತ ಸಸ್ಯದ ಎಲೆಯ ಫೋಟೋ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ. ನಮ್ಮ AI ಸಮಸ್ಯೆ ಗುರುತಿಸಿ ಚಿಕಿತ್ಸೆ ಸೂಚಿಸುತ್ತದೆ.</string>
+    <string name="select_crop">ಬೆಳೆ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="upload_label">ಎಲೆ ಫೋಟೋ ಅಪ್‌ಲೋಡ್ ಮಾಡಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="upload_sub">JPG, PNG — ಗರಿಷ್ಠ 10MB</string>
+    <string name="analyze_btn">🤖 AI ಯಿಂದ ವಿಶ್ಲೇಷಿಸಿ</string>
+    <string name="analyzing_btn">ವಿಶ್ಲೇಷಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="ai_result_title">🧪 AI ರೋಗ ನಿರ್ಣಯ ಫಲಿತಾಂಶ</string>
+    <string name="analysis_error">⚠️ ವಿಶ್ಲೇಷಣೆ ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+
+    <string name="profile_name">ರಾಜು ಪಾಟೀಲ್</string>
+    <string name="profile_loc">📍 ಕೋಲಾರ ಜಿಲ್ಲೆ, ಕರ್ನಾಟಕ</string>
+    <string name="stat_tips">ಓದಿದ ಸಲಹೆಗಳು</string>
+    <string name="stat_saved">ಉಳಿಸಿದವು</string>
+    <string name="stat_diag">ರೋಗ ಪರೀಕ್ಷೆ</string>
+
+    <string name="settings_district">ಜಿಲ್ಲೆ</string>
+    <string name="settings_district_val">ಕೋಲಾರ, ಕರ್ನಾಟಕ</string>
+    <string name="settings_crops">ನನ್ನ ಬೆಳೆಗಳು</string>
+    <string name="settings_crops_val">ಟೊಮೆಟೊ, ಭತ್ತ, ತೆಂಗು</string>
+    <string name="settings_notif">ಅಧಿಸೂಚನೆಗಳು</string>
+    <string name="settings_notif_val">ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ 6:00 ಕ್ಕೆ ಸಲಹೆ</string>
+    <string name="settings_offline">ಆಫ್‌ಲೈನ್ ಮೋಡ್</string>
+    <string name="settings_offline_val">ಕೊನೆಯ ಸಿಂಕ್: ಇಂದು ಬೆಳಿಗ್ಗೆ 5:30</string>
+    <string name="settings_kvk">ಕೃಷಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರ</string>
+    <string name="settings_kvk_val">ಸ್ಥಳೀಯ ತಜ್ಞರೊಂದಿಗೆ ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="settings_about">ರೈತ-ವಾರ್ತಾ ಬಗ್ಗೆ</string>
+    <string name="settings_about_val">ಆವೃತ್ತಿ 1.0 • AI ಚಾಲಿತ</string>
+
+    <string name="saved_toast">💾 ಸಲಹೆ ಉಳಿಸಲಾಗಿದೆ!</string>
+    <string name="all_done">🎉 ಎಲ್ಲ ಮುಗಿದಿದೆ!</string>
+    <string name="all_done_sub">ನಾಳೆ ಹೊಸ ಸಲಹೆಗಳಿಗಾಗಿ ಮತ್ತೆ ನೋಡಿ.</string>
+    <string name="no_tips">ಈ ವರ್ಗದಲ್ಲಿ ಇನ್ನೂ ಸಲಹೆಗಳಿಲ್ಲ.</string>
+
+    <string-array name="cats">
+        <item>ಎಲ್ಲ</item>
+        <item>ಭತ್ತ 🌾</item>
+        <item>ಟೊಮೆಟೊ 🍅</item>
+        <item>ತೆಂಗು 🥥</item>
+        <item>ಅಡಿಕೆ 🌰</item>
+    </string-array>
+
+    <string name="dialog_close">ಮುಚ್ಚಿ</string>
+    <string name="dialog_save">ಉಳಿಸಿ</string>
+    <string name="dialog_call">📞 KVK ಗೆ ಕರೆ ಮಾಡಿ</string>
+    <string name="kvk_phone_number">+918023415000</string>
+    <string name="dialog_district_msg">ಸ್ಥಳೀಯ ಸಲಹೆಗಳನ್ನು ಪಡೆಯಲು ನಿಮ್ಮ ಜಿಲ್ಲೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ.</string>
+    <string name="dialog_crops_msg">ನೀವು ಬೆಳೆಯುವ ಬೆಳೆಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಿ. ನಿಮ್ಮ ಆಯ್ಕೆಗೆ ಅನುಗುಣವಾಗಿ ಸಲಹೆಗಳು ಬರುತ್ತವೆ.</string>
+    <string name="dialog_notif_msg">ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ 6:00 ಕ್ಕೆ ಸಲಹೆಗಳು ಬರುತ್ತವೆ.</string>
+    <string name="dialog_offline_msg">ನಿಮ್ಮ ಸಲಹೆಗಳು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಸಂಗ್ರಹಿಸಲಾಗಿದೆ. ಕೊನೆಯ ಸಿಂಕ್: ಇಂದು 5:30 AM.</string>
+    <string name="dialog_kvk_msg">ಕೃಷಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರ (KVK) ರೈತರಿಗೆ ತರಬೇತಿ, ಮಣ್ಣು ಪರೀಕ್ಷೆ, ಬೀಜ ಮತ್ತು ತಜ್ಞರ ಸಲಹೆ ನೀಡುತ್ತದೆ.</string>
+    <string name="dialog_about_msg">ರೈತ-ವಾರ್ತಾ v1.0\n\nಕರ್ನಾಟಕದ ರೈತರಿಗಾಗಿ ನಿರ್ಮಿಸಿದ ಫ್ಲಾಶ್-ಕಾರ್ಡ್ ಸಲಹೆ ಅಪ್ಲಿಕೇಶನ್.\n\nತಕ್ಷಣದ ಎಲೆ ರೋಗ ನಿರ್ಣಯಕ್ಕೆ AI ಚಾಲಿತ.\n\n© 2026 ರೈತ-ವಾರ್ತಾ</string>
+
+    <string name="set_district">ಜಿಲ್ಲೆ</string>
+    <string name="set_district_sub">ಕೋಲಾರ, ಕರ್ನಾಟಕ</string>
+    <string name="set_crops">ನನ್ನ ಬೆಳೆಗಳು</string>
+    <string name="set_crops_sub">ಟೊಮೆಟೊ, ಭತ್ತ, ತೆಂಗು</string>
+    <string name="set_notif">ಅಧಿಸೂಚನೆಗಳು</string>
+    <string name="set_notif_sub">ಪ್ರತಿದಿನ ಬೆಳಿಗ್ಗೆ 6:00 ಕ್ಕೆ ಸಲಹೆ</string>
+    <string name="set_offline">ಆಫ್‌ಲೈನ್ ಮೋಡ್</string>
+    <string name="set_offline_sub">ಕೊನೆಯ ಸಿಂಕ್: ಇಂದು ಬೆಳಿಗ್ಗೆ 5:30</string>
+    <string name="set_kvk">ಕೃಷಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರ</string>
+    <string name="set_kvk_sub">ಸ್ಥಳೀಯ ತಜ್ಞರೊಂದಿಗೆ ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="set_about">ರೈತ-ವಾರ್ತಾ ಬಗ್ಗೆ</string>
+    <string name="set_about_sub">ಆವೃತ್ತಿ 1.0 • AI ಚಾಲಿತ</string>
+
+    <!-- Diagnosis History -->
+    <string name="history_title">📂 ಇತ್ತೀಚಿನ ರೋಗನಿರ್ಣಯಗಳು</string>
+    <string name="history_empty">ಇನ್ನೂ ರೋಗನಿರ್ಣಯ ಇಲ್ಲ. ಎಲೆಯ ಫೋಟೋ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ.</string>
+</resources>
