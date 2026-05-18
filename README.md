@@ -112,7 +112,19 @@ service cloud.firestore {
   }
 }
 ```
+## Screenshots
 
+### Home Screen
+![Home Screen](Home%20Screen.png.jpeg)
+
+### Diagnosis Screen
+![Diagnosis Screen](Diagnosis%20Screen.png.jpeg)
+
+### Profile Screen
+![Profile Screen](Profile%20Screen.png.jpeg)
+
+### Tips Screen
+![Tips Screen](Tips%20Screen.png.jpeg)
 ---
 
 ## 🚀 Getting Started
