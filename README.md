@@ -7,6 +7,9 @@
 ## 📱 Download APK
 [![Download APK](https://img.shields.io/badge/Download-APK%20v1.0-green?style=for-the-badge&logo=android)](https://github.com/Swathi0607-d/RaithaVarta/releases/tag/v1.0)
 
+## Demo Video
+
+[Watch Demo Video](https://youtube.com/shorts/OUvf57_15qY?feature=share)
 ---
 
 ## 📸 About the App
